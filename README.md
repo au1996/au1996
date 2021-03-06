@@ -1,12 +1,12 @@
 ### 怕什么真理无穷，进一寸有一寸的欢喜 🌱
 
-努力、奋斗 😄
+一个平平无奇的程序猿 😄
 
-- ⚡ 个人博客：https://au1996.gitee.io/xueyue-bookmarks/
+- ⚡ 个人博客：https://au1996.gitee.io/blog/
 
 - ⚡ 个人网站：http://xueyueob.cn/
 
-- 💬 个人微信：[Au-1996 (否定先生)](http://blog.xueyueob.cn/images/1607263763344-weixin.e9ae659a.png)
+- 💬 个人微信：[Au-1996 (否定先生)](./images/xueyue.png)
 
 [![au1996's github stats](https://github-readme-stats.vercel.app/api?username=au1996)](https://github.com/au1996/vue3-element-admin)
 
