@@ -4,11 +4,11 @@
 
 - ⚡ 个人博客：https://au1996.gitee.io/blog/
 
-- ⚡ 个人网站：http://xueyueob.cn/
+- ⚡ 个人网站：http://www.xueyueob.cn/
 
 - 💬 个人微信：[Au-1996 (否定先生)](./images/xueyue.png)
 
-[![au1996's github stats](https://github-readme-stats.vercel.app/api?username=au1996)](https://github.com/au1996/vue3-element-admin)
+[![au1996's github stats](https://github-readme-stats.vercel.app/api?username=au1996)](https://github.com/au1996/vue3-element-admin-ts)
 
 <!--
 **au1996/au1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
