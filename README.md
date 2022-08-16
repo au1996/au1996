@@ -2,25 +2,10 @@
 
 一个平平无奇的程序猿 😄
 
-- ⚡ 个人博客：https://au1996.gitee.io/blog/
+- 🔭 个人博客：https://au1996.gitee.io/blog/
 
 - ⚡ 个人网站：https://www.xueyueob.cn/
 
 - 💬 个人微信：[Au-1996 (否定先生)](./images/xueyue.png)
 
-![](https://github-readme-stats.vercel.app/api?username=au1996&show_icons=true&show_owner=true&count_private=true)
-
-<!--
-**au1996/au1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=au1996&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["contribs"])
