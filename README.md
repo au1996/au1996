@@ -4,7 +4,7 @@
 
 - 🔭 个人博客：https://au1996.gitee.io/blog/
 
-- ⚡ 个人网站：https://www.xueyueob.cn/
+- ⚡ 个人网站：https://www.xyob.top/
 
 - 💬 个人微信：[Au-1996 (否定先生)](./images/xueyue.png)
 
