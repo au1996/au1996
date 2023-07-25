@@ -14,4 +14,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/au1996/au1996/output/github-contribution-grid-snake.svg" />
 </picture>
 
-![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=au1996&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["contribs"])
+<!-- ![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=au1996&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["contribs"]) -->
