@@ -1,10 +1,10 @@
-### 怕什么真理无穷，进一寸有一寸的欢喜 🌱
+### 道阻且长，行则将至 🌱
 
-书山有路勤为径，学海无涯苦作舟 😄
+行而不辍，未来可期 😄
 
-- 🔭 新版博客：https://au1996.github.io/blog/
+- 📝 个人博客：https://au1996.github.io/blog/
 
-- ⚡ 个人博客：https://au1996.gitee.io/blog/
+- ✨ 个人网站：https://www.xyob.cn/
 
 - 💬 个人微信：[Au-1996 (否定先生)](./images/xueyue.png)
 
